@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "up-db": "docker compose up",
+    "install-back": "cd ./api && npm install",
+    "install-front": "cd ./app && npm install",
+    "run-back": "cd ./api && npm run start:dev",
+    "run-front": "cd ./app && npm run dev"
+  }
+}

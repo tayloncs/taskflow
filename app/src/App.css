@@ -1,0 +1,13 @@
+#root {
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+  font-size: 1rem;
+}
+
+body #root {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
